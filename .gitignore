@@ -1,0 +1,11 @@
+# Compass
+.sass-cache
+
+# OS X
+.DS_Store
+
+# Vim
+*.swp
+
+# Node
+node_modules/
