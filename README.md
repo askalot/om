@@ -12,6 +12,6 @@ Front-end thingamajig
 In the command-line ...
 
 1. `gem install sass` Installs [Sass](http://sass-lang.com/)
-2. `npm install` Installs [Grunt](http://gruntjs.com/getting-started) and [Bower](http://bower.io/#installing-bower)
+2. `npm install` Installs [Grunt](http://gruntjs.com/) and [Bower](http://bower.io/)
 3. `grunt`
 
